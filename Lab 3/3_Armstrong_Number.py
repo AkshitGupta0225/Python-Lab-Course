@@ -1,5 +1,5 @@
-lower = 100
-upper = 2000
+lower = 1
+upper = 1000
 
 for num in range(lower, upper + 1):
 
