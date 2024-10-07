@@ -1,0 +1,11 @@
+class Student:
+    def __init__(self, name, roll_number):
+        self.name = name
+        self.roll_number = roll_number
+student1 = Student("Aadi", 1)
+student2 = Student("Vansh", 2)
+student3 = Student("Naman", 3)
+print(f"Student 1: Name = {student1.name}, Roll_number = {student1.roll_number}")
+print(f"Student 2: Name = {student2.name}, Roll_number = {student2.roll_number}")
+print(f"Student 3: Name = {student3.name}, Roll_number = {student3.roll_number}")
+
