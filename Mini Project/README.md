@@ -9,6 +9,8 @@ Features
 •	Tax Calculation: Automatic tax computation for each category.
 •	Bill Generation: Generate a detailed bill with a breakdown of items, taxes, and the total amount.
 •	User-Friendly Interface: Interactive GUI built with Tkinter.
+![image](https://github.com/user-attachments/assets/fd0e36e1-f393-4480-9c1e-aa48800f2ad4)
+
 ________________________________________
 Technologies Used
 •	Programming Language: Python
