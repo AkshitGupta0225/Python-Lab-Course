@@ -1,4 +1,6 @@
 Grocery Bill Management System
+
+
 Overview
 The Grocery Bill Management System is a Python application designed to automate the billing process in retail stores. It features a user-friendly interface, product categorization, automatic tax calculation, and detailed bill generation, making it an efficient solution for managing sales transactions.
 Features
