@@ -18,7 +18,11 @@ Technologies Used
 
 
 •	Programming Language: Python
+
+
 •	Frontend: Tkinter
+
+
 •	Backend: Python functions and data structures
 ________________________________________
 Installation
@@ -43,8 +47,12 @@ Project Structure
 •	assets/: Folder for any images or additional resources (if applicable).
 ________________________________________
 Acknowledgments
+
+
 This project was developed as part of a learning exercise in Python, focusing on GUI development and retail application use cases.
 ________________________________________
 License
+
+
 This project is free to use and modify for educational purposes.
 
