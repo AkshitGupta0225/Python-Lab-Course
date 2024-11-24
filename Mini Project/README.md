@@ -40,14 +40,6 @@ Usage
 3.	View and review the generated bill in the text area.
 4.	Print or clear the bill as needed for the next transaction.
 ________________________________________
-Project Structure
-
-
-•	main.py: Contains the core logic and UI implementation.
-
-
-•	assets/: Folder for any images or additional resources (if applicable).
-________________________________________
 Acknowledgments
 
 
