@@ -44,6 +44,8 @@ Project Structure
 
 
 •	main.py: Contains the core logic and UI implementation.
+
+
 •	assets/: Folder for any images or additional resources (if applicable).
 ________________________________________
 Acknowledgments
